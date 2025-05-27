@@ -94,9 +94,9 @@ Use o app Expo Go no seu celular ou um emulador para visualizar o app.
 
 ![Tela inicial do BugBuddies](frontend/assets/ex6.jpeg)
 ![Tela mapa do BugBuddies](frontend/assets/ex4.jpeg)
-![Tela inicial do BugBuddies](frontend/assets/ex1.jpeg)
-![Tela inicial do BugBuddies](frontend/assets/ex2.jpeg)
-![Tela inicial do BugBuddies](frontend/assets/ex3.jpeg)
+![Tela atualizar do BugBuddies](frontend/assets/ex1.jpeg)
+![Tela deletar do BugBuddies](frontend/assets/ex2.jpeg)
+![Tela deletar do BugBuddies](frontend/assets/ex3.jpeg)
 
 
 
