@@ -149,7 +149,14 @@ See the setup steps above (Portuguese section) or run the frontend and backend s
 
 ## 📸 Screenshots
 
-*Add screenshots of your app UI here.*
+<p align="center">
+  <img src="frontend/assets/ex6.jpeg" alt="Tela inicial" width="200"/>
+  <img src="frontend/assets/ex4.jpeg" alt="Tela mapa" width="200"/>
+  <img src="frontend/assets/ex1.jpeg" alt="Tela atualizar" width="200"/>
+  <img src="frontend/assets/ex2.jpeg" alt="Tela deletar 1" width="200"/>
+  <img src="frontend/assets/ex3.jpeg" alt="Tela deletar 2" width="200"/>
+</p>
+
 
 ## 👩‍💻 Developer
 
