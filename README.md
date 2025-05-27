@@ -92,7 +92,7 @@ Use o app Expo Go no seu celular ou um emulador para visualizar o app.
 
 ## 📸 Capturas de Tela
 
-![Tela inicial do BugBuddies](assets/screenshot-home.png)
+![Tela inicial do BugBuddies](assets/ex6.jpeg)
 
 
 ## 👩‍💻 Desenvolvedora
