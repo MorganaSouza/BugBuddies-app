@@ -92,7 +92,8 @@ Use o app Expo Go no seu celular ou um emulador para visualizar o app.
 
 ## 📸 Capturas de Tela
 
-*Adicione aqui imagens do app rodando com insetos listados, mapa, etc.*
+![Tela inicial do BugBuddies](assets/screenshot-home.png)
+
 
 ## 👩‍💻 Desenvolvedora
 
