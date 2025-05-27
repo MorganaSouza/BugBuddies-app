@@ -92,16 +92,13 @@ Use o app Expo Go no seu celular ou um emulador para visualizar o app.
 
 ## 📸 Capturas de Tela
 
-![Tela inicial do BugBuddies](frontend/assets/ex6.jpeg)
-![Tela mapa do BugBuddies](frontend/assets/ex4.jpeg)
-![Tela atualizar do BugBuddies](frontend/assets/ex1.jpeg)
-![Tela deletar do BugBuddies](frontend/assets/ex2.jpeg)
-![Tela deletar do BugBuddies](frontend/assets/ex3.jpeg)
-
-
-
-
-
+<p align="center">
+  <img src="frontend/assets/ex6.jpeg" alt="Tela inicial" width="200"/>
+  <img src="frontend/assets/ex4.jpeg" alt="Tela mapa" width="200"/>
+  <img src="frontend/assets/ex1.jpeg" alt="Tela atualizar" width="200"/>
+  <img src="frontend/assets/ex2.jpeg" alt="Tela deletar 1" width="200"/>
+  <img src="frontend/assets/ex3.jpeg" alt="Tela deletar 2" width="200"/>
+</p>
 
 
 
